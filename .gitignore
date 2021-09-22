@@ -1,1 +1,9 @@
 node_modules/
+insertion.js
+insertion.test.js
+quick.js
+quick.test.js
+radix.js
+radix.test.js
+selection.js
+selection.test.js
